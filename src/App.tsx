@@ -16,8 +16,8 @@ import dualReflective from "@/assets/dual-reflective.jpg";
 import dualReflectiveExample from "@/assets/dual-reflective-example.png";
 import blackTint from "@/assets/black-tint.jpg";
 import chameleonBlue from "@/assets/chameleon-blue.jpg";
-import beforeHouse from "@/assets/before-house.jpg";
-import afterHouse from "@/assets/after-house.jpg";
+import beforeHouse from "@/assets/before-house.png";
+import afterHouse from "@/assets/after-house.png";
 import { useReveal } from "@/hooks/use-reveal";
 
 
